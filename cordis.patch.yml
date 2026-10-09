@@ -1,0 +1,3 @@
+- insert:
+    - id: la-kaleta-plugin
+      name: 'dsh-plugin-la-kaleta' # El "name" que pusiste en tu package.json
