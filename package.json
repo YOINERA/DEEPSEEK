@@ -1,0 +1,9 @@
+{
+  "name": "dsh-plugin-la-kaleta",
+  "version": "1.0.0",
+  "description": "Plugin para la tienda LA KALETA",
+  "main": "index.js",
+  "dsh": {
+    "bundle": "index.js"
+  }
+}
