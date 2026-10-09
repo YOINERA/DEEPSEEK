@@ -4,6 +4,8 @@
   "description": "Plugin para la tienda LA KALETA",
   "main": "index.js",
   "dsh": {
-    "bundle": "index.js"
+  "bundle": {
+    "patch": "./cordis.patch.yml"
   }
+}
 }
